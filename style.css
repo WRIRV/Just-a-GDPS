@@ -1,0 +1,130 @@
+body{
+    background-color: #1a2027;
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
+    color: white;
+
+    margin: 0;
+}
+
+header{
+    width: 100%;
+    height: auto;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 40px;
+
+    background-color: #1a1a1a;
+}
+
+main{
+    width: 80%;
+    height: auto;
+
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+
+    background-color: #25282e;
+    border-radius: 25px;
+}
+
+.level-container{
+    width: 90%;
+    height: auto;
+
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+
+    background-color: #181c25;
+    border: #394155 solid 1px;
+    border-radius: 20px;
+}
+
+.preview{
+    border: #485575 solid 1px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    width: 230.4px;
+    height: 129.6px;
+}
+
+footer{
+    width: 100%;
+    height: auto;
+
+    margin-top: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    background-color: #1a1a1a;
+    text-align: center;
+}
+
+
+
+@media(max-width: 800px){
+    main{
+        width: 90%;
+        font-size: 12px;
+
+        margin-top: 100px;
+    }
+
+    .level-container{
+        width: 90%;
+        column-gap: 20px;
+    }
+
+    .preview{
+        margin-left: 15px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+
+        border-radius: 10px;
+    }  
+}
+
+@media(max-width: 550px){
+    header{
+        column-gap: 20px;
+        font-size: 12px;
+    }
+
+    main{
+        width: 95%;
+        font-size: 10px;
+    }
+
+    .level-container{
+        width: 95%;
+        column-gap: 15px;
+    }
+
+    .preview{
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+        width: 115.2px;
+        height: 64.8px;
+
+        border-radius: 10px;
+    }
+}
