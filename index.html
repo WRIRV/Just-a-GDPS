@@ -6,8 +6,10 @@
     <title>Демонлист</title>
 
     <link href="style.css" rel="stylesheet">
-    <script src="data.js" defer></script>
+    <script src="level_data.js" defer></script>
+    <script src="player_data.js" defer></script>
     <script src="top_generation.js" defer></script>
+    <script src="info_generation.js" defer></script>
 </head>
 <body>
 
@@ -19,6 +21,32 @@
     </header>
 
     <main></main>
+
+    <div class="modal" style="display:none"> <!--убрать, разметка модального окна полностью готова-->
+        <div class="modal-main">
+
+            <div class="close-modal-container">
+                <svg class="close-modal close" width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <line class="close" x1="20" y1="20" x2="80" y2="80" stroke="black" stroke-width="15"/>
+                    <line class="close" x1="80" y1="20" x2="20" y2="80" stroke="black" stroke-width="15"/>
+                </svg>
+            </div>
+
+            <h1>Информация об уровне level:</h1>
+
+            <h2>Верифер:</h2>
+            <div class="player-info">
+
+                <p>верифер</p>
+                <p><a href="#" target="_blank">ссылка на прохождение</a></p>
+
+            </div>
+
+            <h2>Прошедшие игроки:</h2>
+
+        </div>
+
+    </div>
 
     <footer>
         <p>&copy; 2025 WARRIORR</p>

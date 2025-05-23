@@ -20,6 +20,8 @@ header{
     column-gap: 40px;
 
     background-color: #1a1a1a;
+
+    z-index: 1;
 }
 
 main{
@@ -52,6 +54,16 @@ main{
     background-color: #181c25;
     border: #394155 solid 1px;
     border-radius: 20px;
+
+    transition: background-color 0.25s ease, transform 0.25s ease;
+}
+.level-container:hover{
+    transform: scale(1.05);
+    background-color: #232936;
+    transition: all 0.25s ease;
+}
+.level-container:active{
+    background-color: #3c465c;
 }
 
 .preview{
@@ -77,6 +89,56 @@ footer{
     text-align: center;
 }
 
+.modal{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    background-color: rgba(0, 0, 0, 0.5);
+
+    z-index: 1;
+}
+
+.modal-main{
+    width: 50%;
+    height: auto;
+
+    margin: 0 auto;
+    margin-top: 20vh;
+
+    color: #171a22;
+    background-color: white;
+
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+
+    font-size: 15px;
+}
+
+.close-modal-container{
+    display: flex;
+    justify-content: flex-end;
+}
+.close-modal{
+    background-color: #686868;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.modal-main h1{
+    margin: 0;
+    text-align: center;
+}
+
+.player-info{
+    display: flex;
+    column-gap: 20px;
+}
+
 
 
 @media(max-width: 800px){
@@ -98,7 +160,12 @@ footer{
         margin-bottom: 15px;
 
         border-radius: 10px;
-    }  
+    }
+
+    .modal-main{
+        width: 75%;
+        font-size: 14px;
+    }
 }
 
 @media(max-width: 550px){
@@ -126,5 +193,10 @@ footer{
         height: 64.8px;
 
         border-radius: 10px;
+    }
+
+    .modal-main{
+        width: 90%;
+        font-size: 12px;
     }
 }
