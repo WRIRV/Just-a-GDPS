@@ -71,6 +71,11 @@ const playerData = [
                 name: 'Nazorro_',
                 url: 'https://youtu.be/0ag0FUi_-6M'
             },
+
+            {
+                name: 'ItzMiny',
+                url: 'https://drive.google.com/file/d/1FIPYwHqJ_bjJExCkD0c_q_v0-82g6JXN/view?usp=sharing'
+            },
         ]
     },
 

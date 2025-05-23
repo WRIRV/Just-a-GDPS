@@ -26,7 +26,7 @@ const levelData = [ //место в топе зависит от положен�
     {
         name: 'STEREO BUFFNESS',
         author: 'Utochka',
-        id: 181
+        id: 173
     },
 
     {
