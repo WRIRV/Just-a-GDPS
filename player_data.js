@@ -2,16 +2,11 @@ const playerData = [
     {
         name: 'UnMaded (UNRATED)',
         veriferData: {
-            name: 'royalGG',
-            url: ''
+            name: 'Nazorro_',
+            url: 'https://youtu.be/EqH-2yR9TVE'
         },
 
-        victorsData: [
-            {
-                name: 'Nazorro_',
-                url: 'https://youtu.be/EqH-2yR9TVE'
-            },
-        ]
+        victorsData: []
     },
 
     {
