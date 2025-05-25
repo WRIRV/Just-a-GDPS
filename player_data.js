@@ -1,6 +1,6 @@
 const playerData = [
     {
-        name: 'UnMaded (UNRATED)',
+        name: 'UnMaded',
         veriferData: {
             name: 'Nazorro_',
             url: 'https://youtu.be/EqH-2yR9TVE'
