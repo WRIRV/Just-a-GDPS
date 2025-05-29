@@ -141,7 +141,12 @@ const playerData = [
             url: ''
         },
         
-        victorsData: []
+        victorsData: [
+            {
+                name: 'ItzMiny',
+                url: 'https://drive.google.com/file/d/1FmkUcflodRyM1tIESJYKFe-ivngl_gae/view?usp=sharing'
+            }
+        ]
     },
 
     {
