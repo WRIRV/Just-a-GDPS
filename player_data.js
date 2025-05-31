@@ -188,4 +188,14 @@ const playerData = [
         
         victorsData: []
     },
+
+    {
+        name: 'HELL',
+        veriferData: {
+            name: 'CsGoVERNITEDima',
+            url: 'https://youtu.be/Dw1BUCmhwkI?t=1730'
+        },
+        
+        victorsData: []
+    },
 ];
