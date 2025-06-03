@@ -71,6 +71,11 @@ const playerData = [
                 name: 'ItzMiny',
                 url: 'https://drive.google.com/file/d/1FIPYwHqJ_bjJExCkD0c_q_v0-82g6JXN/view?usp=sharing'
             },
+
+            {
+                name: 'maxvelvi33',
+                url: 'https://drive.google.com/file/d/1jcutkk-t6K_VA7u8B8Bc8-uOMT1Ctmi4/view?usp=sharing'
+            },
         ]
     },
 
