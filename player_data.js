@@ -203,4 +203,14 @@ const playerData = [
         
         victorsData: []
     },
+
+    {
+        name: 'dep',
+        veriferData: {
+            name: 'ItzMiny',
+            url: 'https://drive.google.com/file/d/1m8UsLYeUAwi4cShadT7hX-ft6RD-MenB/view?usp=sharing'
+        },
+        
+        victorsData: []
+    },
 ];
