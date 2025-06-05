@@ -1,11 +1,5 @@
 const levelData = [ //место в топе зависит от положения в массиве
     {
-        name: 'dep',
-        author: 'ItzMiny',
-        id: 327
-    },
-
-    {
         name: 'UnMaded',
         author: 'royalGG',
         id: 257
@@ -21,6 +15,12 @@ const levelData = [ //место в топе зависит от положен�
         name: 'amethyst challenge',
         author: 'ItzMiny',
         id: 165
+    },
+
+    {
+        name: 'dep',
+        author: 'ItzMiny',
+        id: 327
     },
 
     {
