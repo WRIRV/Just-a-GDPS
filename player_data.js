@@ -222,10 +222,15 @@ const playerData = [
     {
         name: 'Creo Circles',
         veriferData: {
-            name: 'CsGoVERNITEDima',
-            url: 'https://youtu.be/N0Yvy0h449U?t=983'
+            name: 'PELM3N',
+            url: ''
         },
         
-        victorsData: []
+        victorsData: [
+            {
+                name: 'CsGoVERNITEDima',
+                url: 'https://youtu.be/N0Yvy0h449U?t=983'
+            }
+        ]
     },
 ];
