@@ -181,7 +181,12 @@ const playerData = [
             url: ''
         },
         
-        victorsData: []
+        victorsData: [
+            {
+                name: 'CsGoVERNITEDima',
+                url: 'https://youtu.be/ukXaQYSrCzQ'
+            }
+        ]
     },
 
     {
@@ -209,6 +214,16 @@ const playerData = [
         veriferData: {
             name: 'ItzMiny',
             url: 'https://drive.google.com/file/d/1m8UsLYeUAwi4cShadT7hX-ft6RD-MenB/view?usp=sharing'
+        },
+        
+        victorsData: []
+    },
+
+    {
+        name: 'Creo Circles',
+        veriferData: {
+            name: 'CsGoVERNITEDima',
+            url: 'https://youtu.be/N0Yvy0h449U?t=983'
         },
         
         victorsData: []
