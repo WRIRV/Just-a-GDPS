@@ -233,4 +233,14 @@ const playerData = [
             }
         ]
     },
+
+    {
+        name: 'Im with you',
+        veriferData: {
+            name: 'Nazorro',
+            url: 'https://youtu.be/lOnsQi8pu7c'
+        },
+        
+        victorsData: []
+    },
 ];
