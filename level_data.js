@@ -43,7 +43,7 @@ const levelData = [ //место в топе зависит от положен�
 
     {
         name: 'Im with you',
-        author: 'Nazorro',
+        author: 'RoyalGG',
         id: 478
     },
 
