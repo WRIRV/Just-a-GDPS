@@ -84,12 +84,6 @@ const levelData = [ //место в топе зависит от положен�
     },
 
     {
-        name: 'beZ doZi',
-        author: 'Beist',
-        id: 129
-    },
-
-    {
         name: 'Creo Circles',
         author: 'PELM3N',
         id: 251
@@ -105,5 +99,11 @@ const levelData = [ //место в топе зависит от положен�
         name: 'Undecored Chaos',
         author: 'Setiop',
         id: 155
+    },
+
+    {
+        name: 'beZ doZi',
+        author: 'Beist',
+        id: 129
     },
 ];

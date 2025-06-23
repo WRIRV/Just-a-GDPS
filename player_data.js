@@ -171,6 +171,11 @@ const playerData = [
                 name: 'CsGoDimas30',
                 url: 'https://youtu.be/cGrINQTWrmc'
             },
+
+            {
+                name: 'Imacube',
+                url: 'https://youtu.be/Fxaj1x3ty_0'
+            },
         ]
     },
 
@@ -230,7 +235,12 @@ const playerData = [
             {
                 name: 'CsGoVERNITEDima',
                 url: 'https://youtu.be/N0Yvy0h449U?t=983'
-            }
+            },
+
+            {
+                name: 'Imacube',
+                url: 'https://youtu.be/sgmb61IEbwI?si=USOSVtMx-9o-xvFO'
+            },
         ]
     },
 
