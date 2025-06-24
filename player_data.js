@@ -201,7 +201,12 @@ const playerData = [
             url: ''
         },
         
-        victorsData: []
+        victorsData: [
+            {
+                name: 'Imacube',
+                url: 'https://www.youtube.com/watch?v=yZ7_bCtUlY0'
+            }
+        ]
     },
 
     {
