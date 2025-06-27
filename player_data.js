@@ -258,4 +258,14 @@ const playerData = [
         
         victorsData: []
     },
+
+    {
+        name: 'X',
+        veriferData: {
+            name: 'Nzcir',
+            url: ''
+        },
+        
+        victorsData: []
+    },
 ];

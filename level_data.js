@@ -78,6 +78,12 @@ const levelData = [ //место в топе зависит от положен�
     },
 
     {
+        name: 'X',
+        author: 'Nzcir',
+        id: 434
+    },
+
+    {
         name: 'HELL',
         author: 'CsGoVERNITEDima',
         id: 314
