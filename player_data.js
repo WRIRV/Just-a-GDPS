@@ -190,6 +190,11 @@ const playerData = [
             {
                 name: 'CsGoVERNITEDima',
                 url: 'https://youtu.be/ukXaQYSrCzQ'
+            },
+
+            {
+                name: 'ImaCube',
+                url: 'https://youtu.be/aVlg5j91RuM'
             }
         ]
     },
@@ -266,6 +271,11 @@ const playerData = [
             url: ''
         },
         
-        victorsData: []
+        victorsData: [
+            {
+                name: 'CSGOVERNITEDIMAS30',
+                url: 'https://youtu.be/00mCRhcMWhw?si=YF8zMQ24c2r0ZvZJ'
+            },
+        ]
     },
 ];
