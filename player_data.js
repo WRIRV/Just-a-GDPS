@@ -10,16 +10,6 @@ const playerData = [
     },
 
     {
-        name: 'uaua factorial',
-        veriferData: {
-            name: 'ExactZ',
-            url: 'https://youtu.be/waFo78I46vg'
-        },
-        
-        victorsData: []
-    },
-
-    {
         name: 'amethyst challenge',
         veriferData: {
             name: 'ItzMiny',
