@@ -6,15 +6,15 @@ const levelData = [ //место в топе зависит от положен�
     },
 
     {
-        name: 'amethyst challenge',
-        author: 'ItzMiny',
-        id: 165
-    },
-
-    {
         name: 'dep',
         author: 'ItzMiny',
         id: 327
+    },
+
+    {
+        name: 'amethyst challenge',
+        author: 'ItzMiny',
+        id: 165
     },
 
     {
@@ -30,15 +30,15 @@ const levelData = [ //место в топе зависит от положен�
     },
 
     {
-        name: 'STEREO BUFFNESS',
-        author: 'Utochka',
-        id: 173
-    },
-
-    {
         name: 'Boon',
         author: 'ExactZ',
         id: 117
+    },
+
+    {
+        name: 'STEREO BUFFNESS',
+        author: 'Utochka',
+        id: 173
     },
 
     {
@@ -54,21 +54,9 @@ const levelData = [ //место в топе зависит от положен�
     },
 
     {
-        name: 'green wave buff (UNRATED)',
-        author: 'ExactZ',
-        id: 181
-    },
-
-    {
         name: 'Clutter God',
         author: 'ExactZ',
         id: 104
-    },
-
-    {
-        name: 'Green Wave',
-        author: 'ferx1n56',
-        id: 144
     },
 
     {
@@ -78,27 +66,27 @@ const levelData = [ //место в топе зависит от положен�
     },
 
     {
-        name: 'X',
-        author: 'Nzcir',
-        id: 434
-    },
-
-    {
         name: 'HELL',
         author: 'CsGoVERNITEDima',
         id: 314
     },
 
     {
-        name: 'Creo Circles',
-        author: 'PELM3N',
-        id: 251
+        name: 'X',
+        author: 'Nzcir',
+        id: 434
     },
 
     {
         name: 'The Prodigy',
         author: 'Setiop',
         id: 199
+    },
+
+    {
+        name: 'Creo Circles',
+        author: 'PELM3N',
+        id: 251
     },
 
     {
