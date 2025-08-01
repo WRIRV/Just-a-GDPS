@@ -9,6 +9,17 @@ const playerData = [
         victorsData: []
     },
 
+ {
+        name: 'controllable seizure',
+        veriferData: {
+            name: 'kitcat43129',
+            url: 'https://drive.google.com/file/d/1epfZHclq3xZNQk2S5ldJgg7xFs6Ypf4E/view?usp=sharing'
+        },
+
+        victorsData: []
+    },
+
+
     {
         name: 'UnMaded',
         veriferData: {
