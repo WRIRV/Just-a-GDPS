@@ -5,6 +5,13 @@ const levelData = [ //место в топе зависит от положен�
         id: 257
     },
 
+ {
+        name: 'controllable seizure',
+        author: 'kitcat43129',
+        id: 718
+    },
+
+
     {
         name: 'dep',
         author: 'ItzMiny',
