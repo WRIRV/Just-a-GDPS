@@ -23,8 +23,8 @@ const playerData = [
     {
         name: 'UnMaded',
         veriferData: {
-            name: 'Nazorro_',
-            url: 'https://youtu.be/EqH-2yR9TVE'
+            name: 'wezt',
+            url: 'youtu.be/e6y9damBRyo'
         },
 
         victorsData: []
@@ -290,3 +290,4 @@ const playerData = [
         ]
     },
 ];
+
