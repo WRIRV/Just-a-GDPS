@@ -1,4 +1,14 @@
 const playerData = [
+   {
+        name: 'gipers',
+        veriferData: {
+            name: 'wezt',
+            url: 'https://youtu.be/-ZsZh7wsbjA'
+        },
+        
+        victorsData: []
+    },
+
      {
         name: 'JOKK',
         veriferData: {
@@ -290,4 +300,5 @@ const playerData = [
         ]
     },
 ];
+
 
