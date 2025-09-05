@@ -10,7 +10,7 @@ const playerData = [
     },
 
    {
-        name: 'JoK',
+        name: 'JaG',
         veriferData: {
             name: 'Taleesman',
             url: 'https://drive.google.com/file/d/1MQShnspsVX-qAloUyOfORnsecu-TZ4XQ/view'
@@ -309,6 +309,7 @@ const playerData = [
         ]
     },
 ];
+
 
 
 
