@@ -1,4 +1,13 @@
 const playerData = [
+    {
+        name: 'uaua factorial',
+        veriferData: {
+            name: 'Taleesman',
+            url: 'https://drive.google.com/file/d/1IALF4Reh0u5Y4ndQU-VQrkBH37xyGxiK/view?usp=drivesdk'
+        },
+    }
+
+
    {
         name: 'gipers',
         veriferData: {
@@ -309,6 +318,7 @@ const playerData = [
         ]
     },
 ];
+
 
 
 
