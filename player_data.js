@@ -1,5 +1,21 @@
 const playerData = [
     {
+        name: 'Old Amethyst',
+        veriferData: {
+            name: 'To4noWhy',
+            url: 'www.youtube.com/watch?v=DIMXbHunj-4&feature=youtu.be'
+        },
+    }
+
+    {
+        name: 'R I P',
+        veriferData: {
+            name: 'Ariller',
+            url: 'https://drive.google.com/file/d/1E66OevrF3JXSeSdbqWZmsLyQVnNC7MFD/view?usp=sharing'
+        },
+    }
+
+    {
         name: 'uaua factorial',
         veriferData: {
             name: 'Taleesman',
@@ -318,6 +334,7 @@ const playerData = [
         ]
     },
 ];
+
 
 
 
