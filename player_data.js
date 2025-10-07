@@ -1,5 +1,14 @@
 const playerData = [
     {
+        name: 'Orb Suicide',
+        veriferData: {
+            name: 'M4I',
+            url: 'https://drive.google.com/file/d/1_58AXbj2lPXk_gnlddwundUUo23H4PyV/view'
+        },
+    }
+
+    
+    {
         name: 'Old Amethyst',
         veriferData: {
             name: 'To4noWhy',
@@ -334,6 +343,7 @@ const playerData = [
         ]
     },
 ];
+
 
 
 
