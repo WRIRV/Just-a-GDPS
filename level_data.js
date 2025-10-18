@@ -7,7 +7,7 @@ const levelData = [ //место в топе зависит от положен�
     },
 
     {
-        name: 'uaua factorial',
+        name: 'kall',
         author: 'Taleesman',
         id: 381
     },
@@ -34,7 +34,7 @@ const levelData = [ //место в топе зависит от положен�
 
 
     {
-        name: 'JaG',
+        name: 'JaG II xyinya',
         author: 'M4I',
         id: 167
     },
@@ -45,6 +45,7 @@ const levelData = [ //место в топе зависит от положен�
         id: 528
     },
 ];
+
 
 
 
