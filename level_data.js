@@ -1,13 +1,13 @@
 const levelData = [ //место в топе зависит от положения в массиве
 
    {
-        name: 'phimos',
+        name: 'gypers',
         author: 'wezt',
         id: 170
     },
 
     {
-        name: 'kall',
+        name: 'uaua factorial',
         author: 'Taleesman',
         id: 381
     },
@@ -34,7 +34,7 @@ const levelData = [ //место в топе зависит от положен�
 
 
     {
-        name: 'JaG II xyinya',
+        name: 'JaG',
         author: 'M4I',
         id: 167
     },
@@ -45,6 +45,7 @@ const levelData = [ //место в топе зависит от положен�
         id: 528
     },
 ];
+
 
 
 
