@@ -1,5 +1,23 @@
 const playerData = [
     {
+        name: 'Blood in the Snow',
+        veriferData: {
+            name: 'ESC',
+            url: 'youtu.be/a9170tNVpPw'
+        },
+     }
+
+    
+    {
+        name: 'HelioRobot',
+        veriferData: {
+            name: 'Sayori',
+            url: 'www.youtube.com/watch?v=tiDeKxbGxlM&feature=youtu.be'
+        },
+     }
+
+    
+    {
         name: 'Orb Suicide',
         veriferData: {
             name: 'M4I',
@@ -343,6 +361,7 @@ const playerData = [
         ]
     },
 ];
+
 
 
 
