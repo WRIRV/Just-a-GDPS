@@ -32,7 +32,19 @@ const levelData = [ //место в топе зависит от положен�
         id: 395
     },
 
+    {
+        name: 'HelioRobot',
+        author: 'Sayori',
+        id: 598
+    },
 
+    {
+        name: 'Blood in the Snow',
+        author: 'ESC',
+        id: 605
+    },
+
+   
     {
         name: 'JaG',
         author: 'M4I',
@@ -45,6 +57,7 @@ const levelData = [ //место в топе зависит от положен�
         id: 528
     },
 ];
+
 
 
 
